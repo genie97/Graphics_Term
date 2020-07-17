@@ -1,0 +1,18 @@
+﻿  코드를 생성하고 있습니다.
+  0 of 27 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+C:\Users\GENIE\source\repos\Project56\Release\GraphicsTerm.exe : fatal error LNK1281: SAFESEH 이미지를 생성할 수 없습니다.
